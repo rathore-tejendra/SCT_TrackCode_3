@@ -103,7 +103,7 @@ public:
             {0, 0, 0, 0, 8, 0, 0, 7, 9}
         };
 
-        grid = example;
+        grid = example;;;
 
         for (int i = 0; i < SIZE; i++) {
             for (int j = 0; j < SIZE; j++) {
